@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+PyMuPDF
+pdf2image
+Pillow
+openai
+langchain
+numpy
+opencv-python
+aiofiles
+pytesseract
+pdf2image
+
